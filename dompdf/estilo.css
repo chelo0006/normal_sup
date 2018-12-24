@@ -1,0 +1,13 @@
+* { 
+	font-family: DejaVu Sans; 
+	font-size: 10px;
+}
+td, th{
+	border-top: 1px solid black;
+	padding: 3px;
+	font-size: 10px;
+	text-align: left;
+}
+table {
+    border-collapse: collapse;
+}
